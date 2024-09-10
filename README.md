@@ -1,72 +1,46 @@
-# Getting Started with Create React App
+# Portfólio de Rodolfo HRE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao meu portfólio! Sou Rodolfo Engelmann, um entusiasta da desenvolvimento web e de aplicativos. Este repositório serve como uma vitrine para meus projetos e habilidades enquanto estou iniciando minha carreira profissional.
 
-## Available Scripts
+## Sobre Mim
 
-In the project directory, you can run:
+Estou me formando em Engenharia da Computação pela Instituto Federal de São Paulo e tenho um forte interesse em desenvolvimento web e desenvolvimento de aplicativos. Estou sempre em busca de novos desafios e oportunidades para crescer e contribuir para projetos inovadores.
 
-### `npm start`
+## Projetos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Aqui estão alguns dos projetos que desenvolvi e que refletem minhas habilidades e interesses:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### [Nome do Projeto 1]
 
-### `npm test`
+- **Descrição:** [Breve descrição do projeto]
+- **Tecnologias:** [Tecnologias utilizadas, por exemplo, React, Tailwind CSS, Node.js]
+- **Link:** [Link para o projeto ou repositório]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### [Nome do Projeto 2]
 
-### `npm run build`
+- **Descrição:** [Breve descrição do projeto]
+- **Tecnologias:** [Tecnologias utilizadas]
+- **Link:** [Link para o projeto ou repositório]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### [Nome do Projeto 3]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Descrição:** [Breve descrição do projeto]
+- **Tecnologias:** [Tecnologias utilizadas]
+- **Link:** [Link para o projeto ou repositório]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Habilidades
 
-### `npm run eject`
+- **Linguagens de Programação:** Entendimento muto eficiente de linguagens como C, C++, C# e Python, além de saber sql e estar apredendo JavaScript
+- **Frameworks e Bibliotecas:** Conhecimento intermediário de react, tailwindCSS e bootstrap.
+- **Ferramentas:** Conhecimento do uso do git, e de diversos bancos de dados como MySql e Postgres
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contato
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Se você estiver interessado em saber mais sobre mim ou em discutir possíveis colaborações, sinta-se à vontade para me contatar:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **E-mail:** rodolfohre@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/rodolfo-h-raymundo-engelmann/
+- **GitHub:** https://github.com/RodolfoHRE
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Obrigado por visitar meu portfólio!
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# RodolfoHRE.github.io
-# RodolfoHRE.github.io
