@@ -1,0 +1,15 @@
+{
+  "name": "meu_portifolio",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao meu portfólio! Sou Rodolfo Engelmann, um entusiasta da desenvolvimento web e de aplicativos. Este repositório serve como uma vitrine para meus projetos e habilidades enquanto estou iniciando minha carreira profissional.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
